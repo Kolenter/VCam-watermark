@@ -4,7 +4,7 @@
 
 Скрипт убирает водяной знак `vcam.ai` в [VCam](https://www.vcam.ai/) на macOS и Windows.
 
-Это экспериментальный патч чужого приложения. Может нарушать ToS. На свой риск.
+После апдейта VCam гоняй скрипт заново.
 
 <a id="русский"></a>
 ## Русский
@@ -71,7 +71,7 @@ originals/          # бэкапы, в git не лежат
 
 Drops the `vcam.ai` watermark from VCam's renderer. Works on macOS and Windows.
 
-Experimental third-party patch. May break ToS. Use at your own risk.
+Re-run the script after a VCam update.
 
 ### Run
 
@@ -118,7 +118,7 @@ If the bundle isn't found, try unpacking `app.asar` and looking for `changeWater
 
 去掉 VCam 渲染输出里的 `vcam.ai` 水印。支持 macOS / Windows。
 
-实验性第三方补丁，可能违反服务条款，风险自负。
+VCam 更新后再跑一遍脚本。
 
 ### 运行
 
