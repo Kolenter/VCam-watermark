@@ -1,0 +1,11 @@
+originals/*
+!originals/.gitkeep
+local/
+*.orig
+*.orig.current
+App-*.js
+*.exe
+
+.DS_Store
+Thumbs.db
+desktop.ini
